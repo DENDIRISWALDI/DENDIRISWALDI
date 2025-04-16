@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @DENDIRISWALDI
-- 👀 I’m interested in the web3/blockchain industry
-- 🌱 I’m currently learning blokchain & web3
-- 💞️ I’m looking to collaborate on in any company
-- 📫 How to reach me +6283865184392
-- 😄 Pronouns: 
-- ⚡ Fun fact: I like to play while doing work
+Halo Tim pintu,
 
-<!---
-DENDIRISWALDI/DENDIRISWALDI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Saya Dendi riswaldi, penyelenggara Seminar Crypto Pemula di 1 mei 2025 lokasi tasikmalaya bekerja sama dengan member Akademi Crypto Indonesia/komunitas. Event ini akan mengedukasi 20-50 pemula tentang blockchain, investasi aman, dan karir Web3, sekaligus memperkenalkan platform crypto terpercaya seperti [pintu dll].
+
+Kami menawarkan peluang sponsorship dengan manfaat seperti branding di slide, poster, dan media sosial (@cryptohaga), slot presentasi 5 menit, serta akses ke audiens baru melalui booth/link referral. Proposal terlampir untuk detail.
+
+Bisa kita diskusikan lebih lanjut via email, Telegram ([@dendi_riswLdi]), atau meeting? Terima kasih dan ditunggu kabarnya!
+
+best regards
+Dendi riswaldi
